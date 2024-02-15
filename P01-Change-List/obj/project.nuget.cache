@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zeEOolbc6YQTmpHiC0K6GCixD03+O+15RbaBbhk4tyjJv3l2Fikp049/aw5Hlv3tAjeldoBgFgGF/Hi6KhljEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Lists\\P01-Change-List\\P01-Change-List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
